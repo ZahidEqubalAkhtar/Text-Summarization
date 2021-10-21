@@ -40,5 +40,3 @@ Artificial intelligence AI is intelligence demonstrated by machines as opposed t
 
 Predicted summary:
 artificial intelligence (AI) is intelligence demonstrated by machines as opposed to the natural intelligence displayed by humans or animals . leading AI textbooks define the field as the study of intelligent agents.
-
-Thanks to Aravind Pai's article
